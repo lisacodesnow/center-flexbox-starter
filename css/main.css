@@ -98,7 +98,7 @@ textarea {
 
 /*Large Background Image*/
 html {
-    background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+    background:url("../img/igor-shalyminov-jZwbwuAKYG4-unsplash.jpg") no-repeat center center fixed;
     background-size: cover;
 	height: 100%;
    /* set height to 100% - these are important for allowing content to vertically align */
@@ -135,15 +135,22 @@ body {
     border-radius: 10px;
     padding: 0px 30px;
     width: 300px;
-    height: 300px;
+    height: 420px;
 }
 
-#content p span {
+
+
+#content p {
     font-family: 'Lora', sans-serif;
 }
 
 
-
+#content span {
+	font-family: 'Fascinate', cursive;
+	font-size: 2em;
+	text-align: left;
+	
+}
 
 
 /* ==========================================================================
