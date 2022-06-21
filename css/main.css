@@ -125,7 +125,7 @@ body {
     background: #222;
     background:rgba(0,0,0,0.7);
     color: #fff;
-	display: flex;
+	/*display: flex;*/
 	justify-content: center;
 	align-content: center;
     font-family: 'Source Sans Pro', sans-serif;
@@ -135,20 +135,24 @@ body {
     border-radius: 10px;
     padding: 0px 30px;
     width: 300px;
-    height: 420px;
+    height: 440px;
 }
 
 
 
 #content p {
     font-family: 'Lora', sans-serif;
+	text-align: center;
 }
 
 
-#content span {
+#content h1 {
 	font-family: 'Fascinate', cursive;
 	font-size: 2em;
-	text-align: left;
+	line-height: 1em;
+	text-align: center;
+	
+	
 	
 }
 
